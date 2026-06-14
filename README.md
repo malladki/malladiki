@@ -51,6 +51,7 @@ I build AI/ML systems that move from prototype to production — and I lead the 
 ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL DB](https://img.shields.io/badge/Azure_SQL_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ---
 
 ### 📊 ML & Data Science
@@ -66,6 +67,7 @@ I build AI/ML systems that move from prototype to production — and I lead the 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ### 🗂️ Data Engineering & BI
@@ -75,10 +77,8 @@ I build AI/ML systems that move from prototype to production — and I lead the 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
-
-
 
 ---
+
 
 <p align="center"><i>Open to AI/ML Engineering Lead, MLOps Lead, and GenAI/Agentic AI Lead roles — let's connect!</i></p>
