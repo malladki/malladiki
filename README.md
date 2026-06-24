@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kiran Kumar Malladi</h1>
-<h3 align="center">AI/ML Engineering Lead | MLOps on GCP & Azure | Agentic AI · Multi-Agent Systems</h3>
+<h3 align="center">AI/ML Lead | MLOps on GCP & Azure | Agentic AI · Multi-Agent Systems</h3>
 
 <p align="center">
 I build AI/ML systems that move from prototype to production — and I lead the teams that make it happen.<br>
